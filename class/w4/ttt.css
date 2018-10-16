@@ -1,0 +1,26 @@
+hi{
+    text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    height: 100px;
+    width: 100px;
+}
+
+td:hover{
+    border: 1px solid gray;
+}
+
+.vertical{
+    border-left: 1px solid blank;
+    border-right: 1px solid blank;
+}
+
+.horizontal{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
